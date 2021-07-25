@@ -1,1 +1,7 @@
 # Anti-decompile
+
+#THIS TOOL IS VERY HARD ENCRYPTION
+
+#ANTI UNCOMPYLE6 + PYCDC + PYCDAS + PYDISASM
+
+#USAGE python2 Antidec.py
