@@ -19,8 +19,8 @@
     <li>apt upgrade</li>
     <li>apt install python2</li>
     <li>apt install git</li>
-    <li>git clone https://github.com/SHOOTER-MAKER/Antidecompile</li>
-    <li>cd Antidecompile</li>
+    <li>git clone https://github.com/SHOOTER-MAKER/Anti-decompile</li>
+    <li>cd Anti-decompile</li>
     <li>python2 Jutt1enc.py</li>
     <li>Now Give Your File Name</li>
 </ul>
